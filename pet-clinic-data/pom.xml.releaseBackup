@@ -3,7 +3,7 @@
     <parent>
         <artifactId>sfg-pinto-petclinic</artifactId>
         <groupId>guru.springframework</groupId>
-        <version>0.0.7-SNAPSHOT</version>
+        <version>0.0.12-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
@@ -11,6 +11,7 @@
 
     <properties>
         <!-- The main class to start by executing java -jar -->
+        <mainClass>guru.springframework.sfgpintopetclinic.SfgPintoPetclinicApplication</mainClass>
         <start-class>guru.springframework.sfgpintopetclinic.SfgPintoPetclinicApplication</start-class>
     </properties>
 <dependencies>

@@ -4,7 +4,7 @@
 
     <groupId>guru.springframework</groupId>
     <artifactId>sfg-pinto-petclinic</artifactId>
-    <version>0.0.9-SNAPSHOT</version>
+    <version>0.0.12</version>
     <modules>
         <module>pet-clinic-data</module>
         <module>pet-clinic-web</module>
@@ -46,7 +46,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/Melwinpintoe/sfg-pinto-petclinic.git</developerConnection>
-        <tag>sfg-pinto-petclinic</tag>
+        <tag>sfg-pinto-petclinic-0.0.12</tag>
         <url>scm:git:https://github.com/Melwinpintoe/sfg-pinto-petclinic.git</url>
     </scm>
 
